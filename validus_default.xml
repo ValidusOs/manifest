@@ -37,7 +37,7 @@
   <project path="bionic" name="bionic" remote="val" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="val" />
   <project path="frameworks/base" name="frameworks_base" remote="val" revision="10.0-test" />
-  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" revision="10.0-test" />
   <project path="hardware/gzosp/interfaces" name="hardware_gzosp_interfaces" remote="val" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="val" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="val" revision="10.0-test" />

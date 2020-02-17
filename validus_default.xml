@@ -46,6 +46,7 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="val" revision="10.0-test" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="val" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="val" revision="10.0-test" />
+  <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="val" revision="10.0" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="val" revision="10.0-test" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="val" revision="10.0-test" />
   <project path="system/core" name="system_core" groups="pdk" remote="val" />

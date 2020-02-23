@@ -39,7 +39,8 @@
   <project path="frameworks/base" name="frameworks_base" remote="val" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" />
   <project path="hardware/gzosp/interfaces" name="hardware_gzosp_interfaces" remote="val" />
-  <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="val" />  
+  <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="val" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" groups="pdk-fs" remote="val" />  
   <project path="packages/apps/FunHouse" name="packages_apps_FunHouse" groups="pdk-fs" remote="val" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="val" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="val" /> 

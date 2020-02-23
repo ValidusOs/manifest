@@ -44,6 +44,7 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="val" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="val" /> 
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="val" />
+  <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="val" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="val" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="val" />
   <project path="system/core" name="system_core" groups="pdk" remote="val" />

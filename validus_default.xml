@@ -54,6 +54,7 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="val" revision="10.0-test" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="val" revision="10.0-test" />
   <project path="system/core" name="system_core" groups="pdk" remote="val" />
+  <project path="system/keymaster" name="system_keymaster" groups="pdk" remote="val" revision="10.0" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="val" />
   <project path="vendor/validus" name="vendor_validus" remote="val" revision="10.0-test" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="val" />

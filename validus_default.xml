@@ -84,6 +84,7 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="gzosp" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
+  <project path="system/extras" name="system_extras" groups="pdk" remote="gzosp" />
 
   <!-- Qcom -->
   <project path="hardware/qcom/audio" name="hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="gzosp" />
